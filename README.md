@@ -35,7 +35,6 @@ Here are a few projects I've worked on:
 
 Feel free to reach out to me:
 
-- **Email:** hasan.ali@example.com
 - **LinkedIn:** [Hasan Ali](https://www.linkedin.com/)
 - **Twitter:** [@hasan_ali](https://twitter.com/)
 
