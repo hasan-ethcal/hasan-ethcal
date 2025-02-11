@@ -31,11 +31,4 @@ Here are a few projects I've worked on:
 
 ![Hasan Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HASAN-ALI&show_icons=true&theme=radical)
 
-## Contact Me
-
-Feel free to reach out to me:
-
-- **LinkedIn:** [Hasan Ali](https://www.linkedin.com/)
-- **Twitter:** [@hasan_ali](https://twitter.com/)
-
 Thanks for visiting my profile! Have a great day! 😊
